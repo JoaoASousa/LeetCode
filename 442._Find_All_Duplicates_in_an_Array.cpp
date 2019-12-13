@@ -1,6 +1,6 @@
 /*
-Runtime: 160 ms, faster than 12.47% of C++.
-Memory Usage: 21.1 MB, less than 15.00% of C++.
+Runtime: 160 ms, faster than 12.47% of C++ online submissions for Find All Duplicates in an Array.
+Memory Usage: 21.1 MB, less than 15.00% of C++ online submissions for Find All Duplicates in an Array.
 */
 class Solution {
 public:
