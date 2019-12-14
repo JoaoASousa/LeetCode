@@ -72,10 +72,6 @@ public:
 };
 
 
-
-
-
-
 /*
 Runtime: 20 ms, faster than 5.35% of C++ online submissions for Minimum Time Visiting All Points.
 Memory Usage: 10.1 MB, less than 100.00% of C++ online submissions for Minimum Time Visiting All Points.

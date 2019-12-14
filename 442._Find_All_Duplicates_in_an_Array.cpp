@@ -14,7 +14,6 @@ public:
             if (nums.at(i) == nums.at(i+1)) dup.insert(nums.at(i));
         }
         
-        
         copy(dup.begin(), dup.end(), back_inserter(dups));
         
         return dups;
