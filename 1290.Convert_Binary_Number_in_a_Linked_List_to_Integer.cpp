@@ -1,6 +1,6 @@
 /*
 Runtime: 4 ms, faster than 59.66% of C++ online submissions for Convert Binary Number in a Linked List to Integer.
-Memory Usage: 8.6 MB, less than 100.00% of C++ online submissions for Convert Binary Number in a Linked List to Integer.
+Memory Usage: 8.5 MB, less than 100.00% of C++ online submissions for Convert Binary Number in a Linked List to Integer.
 */
 /**
  * Definition for singly-linked list.
