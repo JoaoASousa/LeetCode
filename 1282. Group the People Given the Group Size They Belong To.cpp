@@ -31,7 +31,6 @@ public:
         }
         
         map<int,vector<int> >::iterator it = m.begin();
-        int n_groups;
         
         vector<int>::iterator v;
         
